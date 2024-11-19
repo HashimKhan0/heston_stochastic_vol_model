@@ -2,3 +2,10 @@ pandas
 numpy
 matplotlib
 yfinance
+eod
+nelson_siegel_svensson
+datetime
+scipy
+plotly
+seaborn
+py_vollib_vectorized
