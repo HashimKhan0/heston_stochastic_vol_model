@@ -9,3 +9,4 @@ scipy
 plotly
 seaborn
 py_vollib_vectorized
+ace_tools
